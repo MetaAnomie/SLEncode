@@ -13,7 +13,7 @@ SLEncode.exe decode out.enc orig.txt
 ```python
 import slencode
 
-slencode.rle_encodee_file("in.txt", "out.enc")
+slencode.rle_encode_file("in.txt", "out.enc")
 slencode.rle_decode_file("out.enc", "orig.txt")
 ```
 
