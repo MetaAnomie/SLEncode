@@ -22,9 +22,9 @@ slencode.rle_decode_file("out.enc", "orig.txt")
 Benchmarked on a Dell XPS 8930, Core i7-9700 CPU @ 3.00GHz (8 core), 16 GB Ram<br>
 Input Test File Size: 492 MB<br><br>
 
-----------------------------------------------
-| Implementation | Operation | Duration      | 
-----------------------------------------------
+
+| Implementation | Operation | Duration | 
+| -------------- | --------- | -------- | 
 | Rust           | Encoding  | 23.01 Seconds | 
 | Pure Python    | Encoding  | 65.97 Seconds | 
-----------------------------------------------
+
