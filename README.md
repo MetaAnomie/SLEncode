@@ -3,10 +3,11 @@ Customer run-length encoding (RLE) algorithm for python implemented in Rust.
 
 ## Native Rust Binary
 https://github.com/MetaAnomie/SLEncode/blob/main/releases/v0.1.0/SLEncode.exe<br><br>
-<b>Usage:<b><br><br>
+<b>Usage:</b><br><br>
+```
 SLEncode.exe encode in.txt out.enc<br>
 SLEncode.exe decode out.enc orig.txt<br>
-
+```
 ## Python Usage
 
 ```python
