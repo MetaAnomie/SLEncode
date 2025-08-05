@@ -5,8 +5,8 @@ Custom run-length encoding (RLE) algorithm for python implemented in Rust.
 https://github.com/MetaAnomie/SLEncode/blob/main/releases/v0.1.0/SLEncode.exe<br><br>
 <b>Usage:</b>
 ```
-SLEncode.exe encode in.txt out.enc<br>
-SLEncode.exe decode out.enc orig.txt<br>
+SLEncode.exe encode in.txt out.enc
+SLEncode.exe decode out.enc orig.txt
 ```
 ## Python Usage
 
